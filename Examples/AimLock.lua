@@ -11,7 +11,7 @@ local AimingChecks = Aiming.Checks
 
 Aiming.AimLock = {
     Enabled = true,
-    Keybind = Enum.UserInputType.E, -- // You can also have Enum.KeyCode.E, etc.
+    Keybind = Enum.KeyCode.E, -- // You can also have Enum.KeyCode.E, etc.
 }
 local Settings = Aiming.AimLock
 
